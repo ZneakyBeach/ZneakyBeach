@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle Murawski</h1>
-<h3 align="center">A Passionate things about ML / Doki doki <3 </h3>
+<h3 align="center">A Passionate things about ML / DDLC </h3>
 
 - 🌱 I’m currently learning **Machine Learning, DeepL, Anything about Translating / Automation**
 
