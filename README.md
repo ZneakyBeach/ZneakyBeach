@@ -1,10 +1,8 @@
 [![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Danielle Murawski</h1>
 <h3 align="center">Loves Python and Doki-Doki English literature club <3</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://visualstudio.microsoft.com/wp-content/uploads/2023/03/FinalGIF16_9aspectratiofaster.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zneakybeach&label=Profile%20views&color=0e75b6&style=flat" alt="zneakybeach" /> </p>
-
+<img align="left" alt="Coding" width="400" src="https://visualstudio.microsoft.com/wp-content/uploads/2023/03/FinalGIF16_9aspectratiofaster.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zneakybeach" alt="zneakybeach" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, DeepL, Anything about Translating / Automation**
